@@ -1,0 +1,92 @@
+body {
+    font-weight: 150;
+   
+}
+.header {
+    margin-top: 7%  ;
+    text-align: center;
+}
+.info {
+    display: flex;
+    margin-top: 5%;
+}
+    .info i{
+        background-color: rgb(120, 193, 230);
+        width: 50px;
+        height: 50px;
+        border-radius: 50%;
+        align-items: center;
+        display: flex;
+        justify-content: center;
+        color: white;
+        font-size: 0.7rem;
+        align-items: center;
+        margin-left: 39%;
+    }
+    .subinfo {
+        display: flex;
+    
+    }
+    .subinfo h3{
+        margin-top: 0;
+    }
+   
+        .location{
+            margin-left: 30%;
+            font-size: 13px;
+        }
+        .phone{
+            margin-left: 3%;
+            font-size: 13px;
+        }
+    
+        .email{
+            margin-left: 3%;
+            font-size: 13px;
+        }.website{
+            margin-left: 3%;
+            font-size: 13px;
+}
+.contact {
+    display: flex;
+    max-width: 400px;
+    margin-left: 33%;
+ 
+}
+
+.form-group {
+    border-bottom: 1px solid rgb(208, 203, 203);
+    margin-top: 15px;
+    margin-bottom: 20x;
+
+}
+
+.form-group input {
+    background: transparent;
+    border: 0;
+    outline: 0;
+    width: 100%;
+}
+
+.form-group textarea {
+    background: transparent;
+    border: 0;
+    outline: 0;
+}
+.form-group p{
+    font-weight: bold;
+}
+
+.form-submit {
+    background: transparent;
+    background-color: rgb(120, 193, 230);
+    border: 1px solid #f5f5f5;
+    padding: 6px 7px;
+    margin-top: 15px;
+}
+img{
+    width: 260%;
+    margin-left: 2%;
+    margin-top: 10%;
+    margin-bottom: 15%;
+}
